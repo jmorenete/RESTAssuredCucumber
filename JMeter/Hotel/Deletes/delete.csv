@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1545150537775,17,HTTP Delete Request,204,,Smoke Test 1-1,,true,,100,224,1,1,http://localhost:8090/example/v1/hotels/10,0,0,0

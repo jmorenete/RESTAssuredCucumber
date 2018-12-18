@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1545150537793,2,HTTP Get Request,200,,Smoke Test 1-1,text,true,,670,135,1,1,http://localhost:8090/example/v1/hotels,2,0,0
