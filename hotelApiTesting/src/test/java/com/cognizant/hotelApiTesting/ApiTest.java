@@ -1,4 +1,4 @@
-package com.cognizant.apiTesting;
+package com.cognizant.hotelApiTesting;
 
 import org.json.JSONObject;
 import org.junit.Test;

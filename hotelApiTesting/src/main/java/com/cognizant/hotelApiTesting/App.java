@@ -1,4 +1,4 @@
-package com.cognizant.apiTesting;
+package com.cognizant.hotelApiTesting;
 
 /**
  * Hello world!
