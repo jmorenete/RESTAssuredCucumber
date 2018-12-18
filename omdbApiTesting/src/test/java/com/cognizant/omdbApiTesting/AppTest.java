@@ -1,4 +1,4 @@
-package com.cognizant.cucumberRestasured;
+package com.cognizant.omdbApiTesting;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
